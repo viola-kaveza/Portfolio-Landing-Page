@@ -20,3 +20,6 @@ https://viola-kaveza.github.io/Portfolio-Landing-Page/
 * HTML5 
 * CSS3 
 * GIT (for version control)
+
+# Licence
+Licensed under the MIT license.
